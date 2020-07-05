@@ -4,8 +4,7 @@ sidebar: auto
 
 # Security
 
-This is a test! Let's see if it updated on github as well!Taa
-tetst
+This is a test! Let's see if it updated on github as well. July 6-2020
 est! Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
 ## Goals
